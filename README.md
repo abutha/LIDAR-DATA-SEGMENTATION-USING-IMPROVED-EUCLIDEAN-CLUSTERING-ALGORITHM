@@ -14,7 +14,8 @@ highlighting the potential of our methodology for real-world applications such a
 driving, surveillance, and urban planning.
 This work also highlights the implementation using PYNQ-Z2
 FPGA.
-#LIDAR INPUT FILE
+
+# LIDAR INPUT FILE
 
 LiDAR point cloud data was obtained from kITTI dataset.The KITTI dataset, named after the
 Karlsruhe Institute of Technology and the Toyota Technological Institute at Chicago, is a widely
@@ -43,7 +44,7 @@ for researchers and developers working with point cloud data
 ![Screenshot 2024-05-16 101144](https://github.com/abutha/LIDAR-DATA-SEGMENTATION-USING-IMPROVED-EUCLIDEAN-CLUSTERING-ALGORITHM/assets/75900173/f57a78eb-e20a-44be-b7e1-eb0b4cf140d9)
 
 
-#OUTPUT
+# OUTPUT
 
 In this section, we delve into the implementation of our object tracking algorithms on
 the PYNQ-Z2 FPGA board.Utilizing the capabilities of this board, which integrates ARM
